@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="EjemplosJAXB" />
+        <module name="ExamenCristinaGomezCampos" />
+        <module name="Universidad" />
+        <module name="CristinaGómezPV5" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CristinaGómezPV5" target="17" />
+      <module name="EjemplosJAXB" target="17" />
+      <module name="ExamenCristinaGomezCampos" target="17" />
+      <module name="JDBC" target="17" />
+      <module name="Universidad" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

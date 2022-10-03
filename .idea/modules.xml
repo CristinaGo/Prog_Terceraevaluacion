@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Binarios/Binarios.iml" filepath="$PROJECT_DIR$/Binarios/Binarios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Colecciones/Colecciones.iml" filepath="$PROJECT_DIR$/Colecciones/Colecciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CristinaGómezCamposPV6/CristinaGómezCamposPV6.iml" filepath="$PROJECT_DIR$/CristinaGómezCamposPV6/CristinaGómezCamposPV6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CristinaGómezPV5/CristinaGómezPV5.iml" filepath="$PROJECT_DIR$/CristinaGómezPV5/CristinaGómezPV5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjemplosJAXB/EjemplosJAXB.iml" filepath="$PROJECT_DIR$/EjemplosJAXB/EjemplosJAXB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamenCristinaGomezCampos/ExamenCristinaGomezCampos.iml" filepath="$PROJECT_DIR$/ExamenCristinaGomezCampos/ExamenCristinaGomezCampos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fechas/Fechas.iml" filepath="$PROJECT_DIR$/Fechas/Fechas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ficheros/Ficheros.iml" filepath="$PROJECT_DIR$/Ficheros/Ficheros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Lambda/Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TerceraEvaluacion.iml" filepath="$PROJECT_DIR$/TerceraEvaluacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/Universidad/Universidad.iml" filepath="$PROJECT_DIR$/JDBC/Universidad/Universidad.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$USER_HOME$/Documents/1DAW/1DAW_TE/Prog/BBDD/Universidad.sql" dialect="SQLite" />
+    <file url="file://$USER_HOME$/Documents/1DAW/1DAW_TE/Prog/bd_empresa2.sql" dialect="SQLite" />
+    <file url="file://$USER_HOME$/Downloads/examen.sql" dialect="SQLite" />
+  </component>
+</project>

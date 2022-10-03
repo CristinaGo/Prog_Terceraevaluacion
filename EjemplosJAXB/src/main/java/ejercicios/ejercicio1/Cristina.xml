@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<estudiante>
+    <DNI>45544521S</DNI>
+    <nombre>Cristina</nombre>
+    <apellidos>Gómez</apellidos>
+    <curso>1</curso>
+    <ciclo>DAW</ciclo>
+    <módulos>
+        <módulo>Programación</módulo>
+        <módulo>Bases de datos</módulo>
+        <módulo>Lenguaje de Marcas</módulo>
+    </módulos>
+</estudiante>
